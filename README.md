@@ -15,30 +15,30 @@
 * [**Build a Deep Learning Model**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/2.%20Intro%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras/5.%20Build%20a%20Deep%20Learning%20Model)
 
 
-## Databases and SQL for Data Science with Python
-* [**Getting Started with SQL**](https://github.com/aqafridi/Data-Analytics/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
-* [**Introduction to Relational Databases and Tables**](https://github.com/aqafridi/Data-Analytics/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
-* [**Intermediate SQL**](https://github.com/aqafridi/Data-Analytics/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
-* [**Accessing Databases using Python**](https://github.com/aqafridi/Data-Analytics/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
-* [**Course Assignment**](https://github.com/aqafridi/Data-Analytics/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
+## Introduction to Computer Vision and Image Processing
+* [**Image Processing with OpenCV and Pillow**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/3.%20Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/1.%20Image%20Processing%20with%20OpenCV%20and%20Pillow)
+* [**Machine Learning Image Classification**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/3.%20Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/2.%20Machine%20Learning%20Image%20Classification)
+* [**Neural Networks and Deep Learning for Image Classification**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/3.%20Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/3.%20Neural%20Networks%20and%20Deep%20Learning%20for%20Image%20Classification)
+* [**Object Detection**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/3.%20Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/4.%20Object%20Detection)
+* [**Project Case Self-Driving Car - Traffic Sign Classification**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/3.%20Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/5.%20Project%20Case%20Self-Driving%20Car%20-%20Traffic%20Sign%20Classification)
 
-## Data Analysis with Python
-* [**Lab 1: Importing Datasets**](https://github.com/aqafridi/Data-Analytics/blob/main/Data%20Analysis%20with%20Python/review-introduction.ipynb)
-* [**Lab 2: Data Wrangling**](https://github.com/aqafridi/Data-Analytics/blob/main/Data%20Analysis%20with%20Python/data-wrangling.ipynb)
-* [**Lab 3: Exploratory Data Analysis**](https://github.com/aqafridi/Data-Analytics/blob/main/Data%20Analysis%20with%20Python/exploratory-data-analysis.ipynb)
-* [**Lab 4: Model Development**](https://github.com/aqafridi/Data-Analytics/blob/main/Data%20Analysis%20with%20Python/model-development.ipynb)
-* [**Lab 5: Model Evaluation and Refinement**](https://github.com/aqafridi/Data-Analytics/blob/main/Data%20Analysis%20with%20Python/model-evaluation-and-refinement.ipynb)
-* [**House Sales in King County, USA**](https://github.com/aqafridi/Data-Analytics/blob/main/Data%20Analysis%20with%20Python/House_Sales_in_King_Count_USA.ipynb)
+## Deep Neural Networks with PyTorch
+* [**Tensor and Datasets**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/4.%20Deep%20Neural%20Networks%20with%20PyTorch/1.%20Tensor%20and%20Datasets)
+* [**Linear Regression**](hhttps://github.com/aqafridi/AI-Engineering-Specialization/tree/main/4.%20Deep%20Neural%20Networks%20with%20PyTorch/2.%20Linear%20Regression)
+* [**Multiple Input Output Linear Regression**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/4.%20Deep%20Neural%20Networks%20with%20PyTorch/3.%20Multiple%20Input%20Output%20Linear%20Regression)
+* [**Softmax Rergresstion**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/4.%20Deep%20Neural%20Networks%20with%20PyTorch/4.%20Softmax%20Rergresstion)
+* [**Deep Networks**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/4.%20Deep%20Neural%20Networks%20with%20PyTorch/5.%20Deep%20Networks)
+* [**Convolutional Neural Network**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/4.%20Deep%20Neural%20Networks%20with%20PyTorch/6.%20Convolutional%20Neural%20Network)
 
-## Data Visualization with Python
-* [**Introduction to Data Visualization**](https://github.com/aqafridi/Data-Analytics/tree/main/Data%20Visualization%20with%20Python)
-* [**Visualization Tools**](https://github.com/aqafridi/Data-Analytics/tree/main/Data%20Visualization%20with%20Python)
-* [**Visualizing Geospatial Data**](https://github.com/aqafridi/Data-Analytics/tree/main/Data%20Visualization%20with%20Python)
-* [**Dashboards with Plotly and Dash**](https://github.com/aqafridi/Data-Analytics/tree/main/Data%20Visualization%20with%20Python)
+## Building Deep Learning Models with TensorFlow
+* [**Introduction**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/5.%20Building%20Deep%20Learning%20Models%20with%20TensorFlow/Week%201%20Introduction)
+* [**Supervised Learning Models**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/5.%20Building%20Deep%20Learning%20Models%20with%20TensorFlow/Week%202%20Supervised%20Learning%20Models)
+* [**Supervised Learning Models (Cont'd)**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/5.%20Building%20Deep%20Learning%20Models%20with%20TensorFlow/Week%203%20Supervised%20Learning%20Models%20(Cont'd))
+* [**Unsupervised Deep Learning Models**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/5.%20Building%20Deep%20Learning%20Models%20with%20TensorFlow/Week%204%20Unsupervised%20Deep%20Learning%20Models)
+* [**Unsupervised Deep Learning Models (Cont'd) and scaling**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/5.%20Building%20Deep%20Learning%20Models%20with%20TensorFlow/Week%205%20Unsupervised%20Deep%20Learning%20Models%20(Cont'd)%20and%20scaling)
 
-## Applied Data Science Capstone
-* [**1. Data Collection and Wrangling**](https://github.com/aqafridi/Data-Science-Specialization/tree/main/Applied%20Data%20Science%20Capstone/1.%20Data%20Collection%20and%20Wrangling)
-* [**2. Exploratory Analysis- SQL, Pandas,Matplotlib**](https://github.com/aqafridi/Data-Science-Specialization/tree/main/Applied%20Data%20Science%20Capstone/2.%20Exploratory%20Analysis-%20SQL%2C%20Pandas%2CMatplotlib)
-* [**3. Interactive Visual Analytics and Dashboard**](https://github.com/aqafridi/Data-Science-Specialization/tree/main/Applied%20Data%20Science%20Capstone/3.%20Interactive%20Visual%20Analytics%20and%20Dashboard)
-* [**4. Predictive Analysis (Classification)**](https://github.com/aqafridi/Data-Science-Specialization/tree/main/Applied%20Data%20Science%20Capstone/4.%20Predictive%20Analysis%20(Classification))
-* [**5. Present Data-Driven Insights**](https://github.com/aqafridi/Data-Science-Specialization/tree/main/Applied%20Data%20Science%20Capstone/5.%20Present%20Data-Driven%20Insights)
+## AI Capstone Project with Deep Learning
+* [**Loading Data**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/6.%20AI%20Capstone%20Project%20with%20Deep%20Learning/1.%20Loading%20Data)
+* [**Data Preparation**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/6.%20AI%20Capstone%20Project%20with%20Deep%20Learning/2.%20Data%20Preparation)
+* [**Pretrained Models( Transfer Learning)**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/6.%20AI%20Capstone%20Project%20with%20Deep%20Learning/3.%20Pretrained%20Models(%20Transfer%20Learning))
+* [**Evaluating and Comparing Pretrained Models**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/6.%20AI%20Capstone%20Project%20with%20Deep%20Learning/4.%20Evaluating%20and%20Comparing%20Pretrained%20Models)
