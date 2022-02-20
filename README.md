@@ -24,7 +24,7 @@
 
 ## Deep Neural Networks with PyTorch
 * [**Tensor and Datasets**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/4.%20Deep%20Neural%20Networks%20with%20PyTorch/1.%20Tensor%20and%20Datasets)
-* [**Linear Regression**](hhttps://github.com/aqafridi/AI-Engineering-Specialization/tree/main/4.%20Deep%20Neural%20Networks%20with%20PyTorch/2.%20Linear%20Regression)
+* [**Linear Regression**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/4.%20Deep%20Neural%20Networks%20with%20PyTorch/2.%20Linear%20Regression)
 * [**Multiple Input Output Linear Regression**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/4.%20Deep%20Neural%20Networks%20with%20PyTorch/3.%20Multiple%20Input%20Output%20Linear%20Regression)
 * [**Softmax Rergresstion**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/4.%20Deep%20Neural%20Networks%20with%20PyTorch/4.%20Softmax%20Rergresstion)
 * [**Deep Networks**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/4.%20Deep%20Neural%20Networks%20with%20PyTorch/5.%20Deep%20Networks)
