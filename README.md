@@ -42,3 +42,6 @@
 * [**Data Preparation**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/6.%20AI%20Capstone%20Project%20with%20Deep%20Learning/2.%20Data%20Preparation)
 * [**Pretrained Models( Transfer Learning)**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/6.%20AI%20Capstone%20Project%20with%20Deep%20Learning/3.%20Pretrained%20Models(%20Transfer%20Learning))
 * [**Evaluating and Comparing Pretrained Models**](https://github.com/aqafridi/AI-Engineering-Specialization/tree/main/6.%20AI%20Capstone%20Project%20with%20Deep%20Learning/4.%20Evaluating%20and%20Comparing%20Pretrained%20Models)
+
+# Certificate of Specialization
+![Certificate](https://github.com/aqafridi/AI-Engineering-Specialization/blob/main/IBM%20ai%20Engineering.png)
